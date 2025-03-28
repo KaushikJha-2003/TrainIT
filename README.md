@@ -51,7 +51,7 @@ python --version
 
 ### 📥 Clone the Repository
 ```bash
-git clone https://github.com/your-username/covid-19-prediction.git
+git clone [(https://github.com/KaushikJha-2003/TrainIT)]
 cd covid-19-prediction
 ```
 
